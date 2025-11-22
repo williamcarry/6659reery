@@ -1,0 +1,6 @@
+/* 前端商城专用样式 - 包含 Tailwind CSS */
+@import './browser-compat.css';
+@import './main.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
